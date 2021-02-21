@@ -8,7 +8,7 @@ As a senior data analyst at the company, you've been given access to the complet
 
 ## Instructions
 
-Tasks are to do the following:
+Need to perform follwoign tasks:
 
 * Before beginning the analysis, check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID.
 
