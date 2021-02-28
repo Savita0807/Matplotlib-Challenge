@@ -1,4 +1,4 @@
-# Matplotlib-Challenge
+# Pymaceuticals Analysis-Matplotlib-Challenge
 
 ## Background
 
